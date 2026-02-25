@@ -1,0 +1,201 @@
+EmployeeID,Age,Gender,MaritalStatus,Department,JobRole,EducationField,MonthlyIncome,JobSatisfaction,YearsAtCompany,YearsInCurrentRole,TotalWorkingYears,OverTime,Attrition,HireDate
+1001,29,Male,Divorced,IT,Executive,Business,38289,1,3,0,28,Yes,Yes,2022-03-04
+1002,35,Male,Divorced,Marketing,Manager,Marketing,46062,4,9,3,29,No,Yes,2016-01-19
+1003,32,Female,Married,IT,Executive,Business,145463,3,2,0,6,No,Yes,2023-07-06
+1004,44,Female,Single,Operations,Engineer,Marketing,36361,4,6,0,19,No,Yes,2019-01-10
+1005,26,Male,Divorced,Sales,Analyst,Human Resources,132108,2,3,0,25,No,No,2022-11-25
+1006,45,Male,Married,IT,Executive,Engineering,111988,1,3,1,35,Yes,Yes,2022-02-16
+1007,46,Female,Divorced,Operations,Specialist,Business,109733,3,5,0,15,Yes,No,2020-03-08
+1008,39,Male,Single,Marketing,Associate,Engineering,47869,4,6,3,30,Yes,No,2019-07-02
+1009,37,Female,Divorced,Marketing,Engineer,Marketing,72350,3,9,3,9,No,Yes,2016-07-25
+1010,25,Male,Single,Operations,Executive,Finance,98172,1,2,1,25,No,No,2023-06-23
+1011,22,Male,Divorced,Marketing,Analyst,Engineering,34621,3,4,3,11,No,Yes,2021-03-16
+1012,38,Male,Divorced,HR,Associate,Engineering,130319,2,2,0,24,Yes,Yes,2023-02-05
+1013,42,Female,Single,HR,Analyst,Engineering,51385,1,4,1,6,Yes,No,2021-09-19
+1014,26,Male,Single,Operations,Engineer,Marketing,41643,3,1,1,14,Yes,No,2024-02-25
+1015,45,Female,Divorced,Finance,Manager,Business,49451,1,6,2,2,Yes,Yes,2019-06-23
+1016,26,Male,Single,HR,Manager,Engineering,29287,2,10,4,32,Yes,Yes,2015-01-30
+1017,58,Female,Single,Finance,Engineer,Business,32363,1,2,2,28,No,No,2023-02-10
+1018,51,Male,Divorced,Operations,Associate,Human Resources,27944,4,6,5,22,Yes,Yes,2019-08-11
+1019,34,Female,Single,Finance,Executive,Engineering,80637,2,8,1,29,Yes,Yes,2017-02-23
+1020,56,Male,Single,Sales,Executive,Finance,83653,4,3,1,26,Yes,Yes,2022-04-25
+1021,22,Female,Married,Finance,Analyst,Finance,111303,4,6,1,13,No,Yes,2019-04-02
+1022,59,Male,Divorced,IT,Manager,Human Resources,96569,4,10,8,34,Yes,Yes,2015-08-28
+1023,27,Male,Single,Marketing,Manager,Business,72923,1,5,4,16,Yes,Yes,2020-09-11
+1024,59,Female,Married,Sales,Associate,Engineering,51285,3,6,3,9,No,No,2019-09-14
+1025,26,Male,Married,Marketing,Specialist,Human Resources,29602,2,7,4,9,No,Yes,2018-07-19
+1026,37,Female,Married,Sales,Engineer,Marketing,112214,3,1,0,20,Yes,Yes,2024-11-10
+1027,29,Male,Divorced,Marketing,Executive,Engineering,56930,2,8,5,14,No,No,2017-12-19
+1028,25,Male,Divorced,Finance,Analyst,Human Resources,20464,3,8,2,17,Yes,No,2017-10-25
+1029,49,Male,Single,HR,Associate,Business,91511,1,4,2,10,No,Yes,2021-03-09
+1030,41,Female,Single,IT,Executive,Business,107416,1,10,5,27,Yes,Yes,2015-06-21
+1031,32,Male,Married,HR,Executive,Engineering,122548,4,1,0,18,Yes,Yes,2024-09-11
+1032,24,Female,Single,Sales,Engineer,Engineering,60001,2,6,1,2,Yes,No,2019-04-16
+1033,39,Male,Married,IT,Associate,Marketing,72386,3,7,0,8,No,Yes,2018-09-06
+1034,38,Male,Single,Marketing,Engineer,Engineering,115491,3,4,3,33,Yes,No,2021-07-06
+1035,34,Female,Single,Operations,Engineer,Human Resources,88146,2,4,2,28,Yes,No,2021-06-19
+1036,42,Male,Divorced,IT,Specialist,Engineering,107410,4,4,2,26,No,Yes,2021-12-27
+1037,48,Female,Divorced,Operations,Executive,Marketing,94593,3,8,6,1,No,No,2017-02-24
+1038,49,Female,Married,Finance,Engineer,Business,87000,4,8,2,6,No,No,2017-05-10
+1039,37,Female,Single,Sales,Executive,Human Resources,26057,2,9,7,5,No,No,2016-01-18
+1040,58,Male,Divorced,Operations,Engineer,Finance,72383,2,1,0,1,Yes,No,2024-12-08
+1041,33,Female,Single,Marketing,Executive,Human Resources,79829,2,8,7,34,No,No,2017-06-15
+1042,54,Female,Divorced,Finance,Executive,Finance,78991,3,4,1,18,No,Yes,2021-11-14
+1043,50,Male,Divorced,IT,Executive,Engineering,64020,3,7,1,9,Yes,Yes,2018-01-29
+1044,31,Male,Single,Finance,Engineer,Engineering,91121,4,6,3,4,Yes,No,2019-04-18
+1045,59,Male,Divorced,Finance,Engineer,Human Resources,143567,3,6,2,25,No,Yes,2019-05-15
+1046,36,Female,Married,Finance,Manager,Finance,64057,4,5,5,11,No,Yes,2020-06-22
+1047,56,Male,Married,Marketing,Specialist,Human Resources,31003,4,4,1,30,Yes,Yes,2021-12-23
+1048,46,Female,Single,Finance,Analyst,Engineering,119775,4,8,4,27,No,Yes,2017-12-01
+1049,23,Male,Married,Sales,Associate,Human Resources,122397,1,5,0,16,Yes,Yes,2020-04-10
+1050,31,Male,Single,Finance,Associate,Human Resources,93920,2,4,3,17,No,Yes,2021-12-19
+1051,60,Male,Single,IT,Manager,Marketing,23365,3,4,4,25,No,Yes,2021-10-17
+1052,59,Male,Single,Operations,Analyst,Marketing,125582,1,10,9,3,No,No,2015-11-08
+1053,45,Male,Divorced,Operations,Analyst,Human Resources,131355,4,3,3,7,No,No,2022-06-02
+1054,51,Male,Married,Sales,Associate,Marketing,146546,3,3,3,30,No,No,2022-02-16
+1055,37,Male,Married,Finance,Executive,Finance,94691,4,7,5,2,No,No,2018-08-13
+1056,53,Male,Married,IT,Analyst,Engineering,135385,3,8,8,1,Yes,Yes,2017-01-14
+1057,48,Female,Divorced,Sales,Associate,Finance,104659,4,8,7,2,Yes,No,2017-09-15
+1058,47,Male,Married,Operations,Specialist,Engineering,82031,3,8,6,22,No,No,2017-06-26
+1059,41,Female,Single,HR,Associate,Business,61359,1,7,2,13,Yes,No,2018-01-14
+1060,59,Female,Single,Sales,Analyst,Business,67301,2,7,4,1,Yes,No,2018-02-06
+1061,25,Female,Divorced,Sales,Associate,Finance,33446,1,10,9,19,No,No,2015-07-06
+1062,43,Male,Single,IT,Engineer,Human Resources,127756,1,6,3,32,Yes,Yes,2019-12-10
+1063,31,Female,Single,Sales,Manager,Marketing,120197,4,9,9,15,No,No,2016-09-13
+1064,41,Female,Married,Marketing,Specialist,Human Resources,99905,1,6,6,14,Yes,No,2019-12-19
+1065,27,Male,Single,Sales,Specialist,Human Resources,40517,1,3,3,29,No,No,2022-05-29
+1066,36,Female,Divorced,IT,Associate,Finance,29329,2,10,4,13,No,Yes,2015-05-14
+1067,36,Male,Married,Sales,Manager,Human Resources,41747,3,4,4,19,No,Yes,2021-02-08
+1068,41,Female,Married,Marketing,Specialist,Finance,77377,1,5,4,3,No,No,2020-04-03
+1069,38,Male,Single,Sales,Associate,Marketing,96955,1,4,2,3,Yes,No,2021-10-08
+1070,50,Female,Single,Marketing,Engineer,Finance,147016,1,5,3,23,No,No,2020-10-26
+1071,28,Male,Married,Finance,Associate,Finance,57777,4,7,0,30,Yes,No,2018-08-08
+1072,42,Male,Married,Marketing,Manager,Marketing,80552,4,8,0,13,No,No,2017-10-30
+1073,50,Male,Single,IT,Specialist,Business,141591,3,3,3,32,Yes,Yes,2022-01-05
+1074,60,Male,Divorced,Sales,Analyst,Marketing,21792,4,3,0,15,Yes,No,2022-01-24
+1075,31,Female,Divorced,IT,Specialist,Engineering,74459,4,9,7,16,No,Yes,2016-04-26
+1076,34,Male,Single,IT,Engineer,Engineering,142453,3,6,6,1,No,No,2019-04-21
+1077,59,Female,Single,Finance,Specialist,Finance,65236,3,1,1,30,No,Yes,2024-05-23
+1078,37,Female,Single,Finance,Manager,Engineering,117609,4,3,3,25,Yes,No,2022-10-27
+1079,30,Female,Single,Finance,Manager,Marketing,139333,4,10,0,10,No,Yes,2015-06-01
+1080,52,Female,Married,Marketing,Associate,Finance,105175,1,10,5,35,No,No,2015-11-03
+1081,53,Male,Divorced,HR,Executive,Engineering,49817,1,3,3,7,Yes,No,2022-01-11
+1082,41,Male,Single,IT,Manager,Engineering,66984,3,9,6,10,Yes,No,2016-11-12
+1083,33,Male,Single,HR,Specialist,Finance,101226,2,4,3,10,Yes,No,2021-05-07
+1084,38,Female,Married,Operations,Manager,Finance,138123,3,3,1,5,No,No,2022-02-25
+1085,41,Female,Divorced,IT,Engineer,Engineering,46111,4,4,3,7,Yes,No,2021-08-03
+1086,44,Female,Divorced,IT,Manager,Finance,55976,1,4,4,4,No,No,2021-05-31
+1087,36,Female,Single,Operations,Executive,Marketing,52850,2,2,2,7,Yes,No,2023-09-13
+1088,50,Male,Divorced,IT,Associate,Business,31813,3,2,1,27,Yes,Yes,2023-11-05
+1089,56,Female,Divorced,Marketing,Analyst,Business,53681,4,9,4,22,Yes,No,2016-06-25
+1090,31,Male,Divorced,Operations,Associate,Finance,146781,3,10,1,26,Yes,No,2015-11-05
+1091,29,Female,Married,Operations,Associate,Engineering,96619,4,4,2,7,Yes,No,2021-01-06
+1092,57,Female,Divorced,Sales,Associate,Human Resources,103283,4,10,4,27,Yes,Yes,2015-04-13
+1093,24,Female,Married,HR,Manager,Business,136294,2,10,6,30,No,No,2015-07-05
+1094,31,Female,Divorced,HR,Engineer,Marketing,73492,3,4,0,24,Yes,No,2021-08-02
+1095,37,Female,Single,Operations,Analyst,Marketing,138187,3,6,0,26,No,Yes,2019-12-27
+1096,51,Male,Divorced,Sales,Associate,Marketing,147283,1,9,0,22,Yes,Yes,2016-05-15
+1097,58,Male,Single,Marketing,Executive,Marketing,48305,2,2,1,10,Yes,No,2023-10-29
+1098,31,Male,Divorced,IT,Executive,Human Resources,106646,1,1,0,1,No,Yes,2024-08-17
+1099,42,Male,Single,IT,Manager,Business,117218,4,4,4,8,Yes,No,2021-08-08
+1100,45,Male,Married,Marketing,Executive,Marketing,25683,3,5,3,2,Yes,No,2020-01-11
+1101,47,Female,Divorced,HR,Engineer,Finance,29632,1,1,1,10,Yes,Yes,2024-07-02
+1102,59,Female,Married,Marketing,Specialist,Engineering,79469,4,7,1,8,Yes,No,2018-01-31
+1103,36,Female,Married,Finance,Engineer,Finance,115631,1,5,2,28,No,No,2020-01-24
+1104,31,Female,Single,HR,Manager,Human Resources,76606,1,6,5,24,Yes,Yes,2019-03-14
+1105,57,Female,Divorced,HR,Engineer,Engineering,134505,4,4,0,19,No,No,2021-07-30
+1106,58,Male,Single,Operations,Engineer,Business,131054,1,9,5,24,Yes,No,2016-02-29
+1107,36,Female,Divorced,Marketing,Specialist,Marketing,23441,3,4,0,12,No,No,2021-06-09
+1108,44,Male,Single,Sales,Specialist,Finance,29120,2,7,0,6,Yes,No,2018-10-23
+1109,51,Female,Single,IT,Analyst,Engineering,121821,1,6,0,10,Yes,Yes,2019-09-16
+1110,27,Female,Married,Operations,Engineer,Finance,99570,4,3,3,18,Yes,Yes,2022-07-23
+1111,49,Male,Married,Operations,Associate,Marketing,83783,3,7,0,15,No,Yes,2018-11-14
+1112,35,Female,Single,Sales,Analyst,Engineering,63007,1,10,0,32,No,Yes,2015-02-01
+1113,46,Male,Divorced,Marketing,Associate,Engineering,29447,4,9,0,28,Yes,No,2016-06-13
+1114,42,Female,Divorced,Finance,Associate,Finance,57947,1,10,6,2,No,Yes,2015-11-15
+1115,51,Female,Single,Finance,Manager,Business,77104,4,2,2,6,No,No,2023-12-27
+1116,43,Male,Married,Sales,Manager,Marketing,102998,1,2,2,33,Yes,No,2023-05-13
+1117,31,Male,Single,Sales,Analyst,Business,42740,2,7,1,12,No,No,2018-12-09
+1118,58,Female,Divorced,Marketing,Associate,Marketing,62363,3,2,0,29,Yes,No,2023-06-18
+1119,41,Female,Divorced,HR,Analyst,Marketing,29724,3,6,3,29,Yes,Yes,2019-12-17
+1120,40,Male,Divorced,HR,Specialist,Marketing,86462,4,6,3,3,No,Yes,2019-02-19
+1121,60,Female,Divorced,Sales,Manager,Finance,33566,3,7,1,33,Yes,Yes,2018-08-09
+1122,50,Female,Divorced,Marketing,Specialist,Business,67696,3,8,4,25,No,No,2017-10-11
+1123,60,Male,Divorced,Operations,Analyst,Human Resources,63213,1,3,3,19,No,Yes,2022-08-12
+1124,27,Male,Married,IT,Associate,Finance,36901,1,7,4,25,No,Yes,2018-09-27
+1125,55,Male,Divorced,Operations,Engineer,Marketing,67425,1,3,2,20,Yes,Yes,2022-07-07
+1126,53,Male,Single,Sales,Executive,Human Resources,58770,1,7,0,22,Yes,No,2018-10-31
+1127,32,Male,Divorced,Marketing,Executive,Finance,25726,4,9,5,16,No,No,2016-09-23
+1128,50,Male,Divorced,Sales,Analyst,Finance,138485,2,2,1,29,No,No,2023-06-09
+1129,46,Female,Single,Sales,Specialist,Business,134426,3,2,0,31,No,Yes,2023-09-23
+1130,55,Male,Married,HR,Executive,Engineering,78893,2,3,3,6,Yes,No,2022-12-23
+1131,44,Male,Married,HR,Engineer,Marketing,69015,2,1,1,6,No,Yes,2024-12-02
+1132,42,Male,Divorced,Operations,Analyst,Business,38035,1,10,4,31,Yes,No,2015-04-26
+1133,22,Male,Single,IT,Executive,Business,91932,4,5,0,19,Yes,No,2020-01-12
+1134,25,Male,Married,Operations,Specialist,Finance,28232,1,9,7,35,Yes,Yes,2016-05-14
+1135,31,Female,Married,HR,Specialist,Engineering,51531,4,2,0,6,No,Yes,2023-01-22
+1136,56,Male,Married,Finance,Manager,Finance,148586,3,5,2,2,No,Yes,2020-11-24
+1137,37,Male,Divorced,Operations,Analyst,Business,25811,3,7,5,12,No,No,2018-11-13
+1138,33,Male,Single,Operations,Engineer,Human Resources,58462,2,3,0,13,Yes,No,2022-01-31
+1139,54,Female,Divorced,Finance,Analyst,Human Resources,118735,2,7,4,23,Yes,No,2018-06-24
+1140,29,Female,Married,Finance,Associate,Finance,137261,4,7,5,12,No,No,2018-01-24
+1141,55,Female,Single,Operations,Engineer,Human Resources,76440,2,6,4,19,No,Yes,2019-02-13
+1142,42,Female,Married,Finance,Specialist,Finance,41842,4,10,5,29,Yes,No,2015-11-24
+1143,49,Female,Divorced,HR,Manager,Finance,67619,2,4,0,10,No,Yes,2021-11-23
+1144,26,Male,Divorced,IT,Analyst,Finance,144448,1,9,9,10,No,No,2016-06-01
+1145,50,Male,Divorced,Sales,Specialist,Engineering,72171,3,6,5,18,Yes,Yes,2019-03-04
+1146,33,Female,Divorced,Finance,Specialist,Human Resources,54311,3,10,7,14,No,No,2015-04-17
+1147,29,Male,Single,Finance,Executive,Finance,31506,3,8,5,5,No,No,2017-03-30
+1148,32,Male,Married,Marketing,Executive,Human Resources,149123,2,1,0,16,No,Yes,2024-07-19
+1149,57,Female,Married,Marketing,Executive,Marketing,135899,1,6,0,20,No,No,2019-01-18
+1150,48,Female,Divorced,HR,Executive,Engineering,104192,1,5,3,30,No,Yes,2020-11-23
+1151,57,Male,Single,Finance,Specialist,Human Resources,128972,1,1,0,20,Yes,Yes,2024-11-05
+1152,36,Female,Divorced,IT,Manager,Engineering,45729,3,7,2,20,Yes,Yes,2018-08-14
+1153,59,Male,Single,Operations,Specialist,Marketing,64252,1,4,0,6,Yes,No,2021-08-21
+1154,35,Female,Divorced,Operations,Manager,Finance,136522,3,3,2,31,Yes,No,2022-04-21
+1155,51,Male,Divorced,HR,Executive,Finance,74476,4,7,7,14,No,Yes,2018-05-03
+1156,42,Female,Married,Sales,Analyst,Marketing,93616,1,7,5,16,No,Yes,2018-07-04
+1157,50,Male,Single,HR,Manager,Engineering,143913,4,8,6,16,Yes,No,2017-12-31
+1158,42,Male,Single,Finance,Specialist,Finance,85373,3,4,3,2,Yes,No,2021-06-24
+1159,51,Male,Single,Marketing,Analyst,Human Resources,26624,3,5,3,31,No,Yes,2020-09-01
+1160,28,Female,Single,IT,Associate,Engineering,120120,4,1,1,3,No,Yes,2024-07-02
+1161,57,Male,Married,Marketing,Analyst,Human Resources,70639,4,4,4,18,Yes,Yes,2021-05-24
+1162,47,Female,Married,Marketing,Analyst,Business,46090,4,9,8,3,Yes,Yes,2016-02-01
+1163,43,Female,Divorced,Finance,Executive,Marketing,137064,2,9,5,21,Yes,No,2016-07-15
+1164,41,Female,Divorced,Marketing,Specialist,Finance,112895,3,4,3,2,No,No,2021-11-30
+1165,29,Female,Divorced,IT,Associate,Human Resources,98238,4,3,2,15,Yes,No,2022-07-22
+1166,55,Female,Single,Operations,Executive,Human Resources,95047,1,9,3,2,No,No,2016-11-29
+1167,31,Female,Divorced,Sales,Engineer,Marketing,121577,4,6,6,4,Yes,Yes,2019-09-12
+1168,42,Female,Divorced,Finance,Analyst,Business,80249,3,4,4,23,No,No,2021-04-16
+1169,37,Female,Divorced,IT,Executive,Engineering,121079,3,8,3,32,No,No,2017-02-26
+1170,57,Female,Married,HR,Specialist,Marketing,69767,4,7,5,10,No,Yes,2018-11-29
+1171,27,Female,Married,Operations,Analyst,Finance,48047,2,7,4,18,Yes,Yes,2018-03-24
+1172,59,Male,Single,HR,Associate,Marketing,49579,2,4,0,7,No,No,2021-11-26
+1173,52,Male,Divorced,Sales,Manager,Marketing,148176,2,2,1,31,No,Yes,2023-01-17
+1174,40,Female,Married,Operations,Manager,Human Resources,105498,2,2,2,3,Yes,No,2023-06-24
+1175,33,Male,Married,Finance,Executive,Engineering,134916,1,1,0,20,Yes,No,2024-11-22
+1176,51,Female,Single,Marketing,Engineer,Engineering,45272,1,7,5,11,No,No,2018-03-11
+1177,33,Male,Divorced,IT,Analyst,Marketing,108395,2,2,0,26,No,No,2023-01-22
+1178,47,Male,Single,Sales,Engineer,Engineering,142660,2,10,0,17,No,Yes,2015-12-22
+1179,39,Female,Married,Marketing,Associate,Marketing,21498,3,5,5,24,Yes,Yes,2020-01-04
+1180,29,Female,Married,Sales,Engineer,Marketing,140993,3,3,0,19,No,Yes,2022-06-28
+1181,30,Female,Single,Finance,Associate,Marketing,68971,4,8,8,31,Yes,Yes,2017-06-16
+1182,60,Male,Divorced,Finance,Specialist,Engineering,30237,1,3,0,33,Yes,Yes,2022-08-18
+1183,42,Female,Single,Operations,Executive,Marketing,84071,1,9,8,29,Yes,No,2016-11-04
+1184,54,Female,Married,Marketing,Manager,Marketing,80604,3,9,0,26,No,Yes,2016-06-24
+1185,35,Male,Single,Finance,Analyst,Human Resources,90931,1,2,0,31,Yes,No,2023-05-13
+1186,33,Male,Divorced,Operations,Associate,Finance,69081,4,6,3,25,No,Yes,2019-08-02
+1187,56,Male,Divorced,IT,Manager,Business,90419,4,3,1,15,Yes,Yes,2022-08-28
+1188,51,Female,Divorced,Finance,Executive,Business,80375,3,7,2,18,Yes,Yes,2018-05-07
+1189,48,Male,Single,Sales,Manager,Human Resources,97849,1,10,7,4,Yes,Yes,2015-05-12
+1190,50,Male,Divorced,Sales,Manager,Business,86046,3,6,1,21,No,Yes,2019-07-06
+1191,31,Male,Married,IT,Analyst,Human Resources,92970,2,7,6,32,Yes,No,2018-05-21
+1192,46,Female,Divorced,Finance,Engineer,Business,59306,4,3,1,35,No,Yes,2022-03-20
+1193,36,Female,Divorced,Sales,Engineer,Human Resources,93713,4,1,1,34,Yes,No,2024-07-10
+1194,38,Male,Married,Operations,Manager,Finance,131035,3,8,1,35,Yes,Yes,2017-09-21
+1195,46,Male,Single,Sales,Specialist,Marketing,48444,4,7,3,22,No,Yes,2018-01-04
+1196,34,Male,Divorced,Finance,Executive,Marketing,112244,2,8,6,16,No,No,2017-05-17
+1197,51,Female,Married,IT,Analyst,Marketing,135711,4,6,3,7,No,No,2019-04-09
+1198,45,Female,Married,HR,Specialist,Business,117157,2,8,0,17,No,No,2017-04-12
+1199,34,Female,Single,Finance,Specialist,Business,85444,3,9,4,32,No,No,2016-09-16
+1200,44,Male,Single,Operations,Specialist,Finance,44123,1,9,8,3,Yes,Yes,2016-11-20
